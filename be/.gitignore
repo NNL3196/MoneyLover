@@ -1,0 +1,17 @@
+be_netcore/BeApplication/bin/
+be_netcore/BeApplication/obj/
+bin
+obj
+.vs
+fets/dist/
+be/.vscode
+fe/dist/
+
+# JetBrains / IntelliJ / Rider
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store

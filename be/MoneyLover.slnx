@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BeApplication.Api/BeApplication.Api.csproj" />
+  <Project Path="BeApplication/BeApplication.csproj" />
+  <Project Path="BeDomain/BeDomain.csproj" />
+  <Project Path="BeInfrastructure/BeInfrastructure.csproj" />
+  <Project Path="BeLibrary/BeLibrary.csproj" />
+</Solution>
